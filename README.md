@@ -1,5 +1,5 @@
 ## MotionTorch
-# The application to turn on mobile's flash with the ultra ease.
+#### The app turns on mobile's flash with the ultra ease of a *shake*.
 
 The app removes the hassle of turning on mobile's torch by swiping down the notification bar to
 the ease of just shaking your phone once.
